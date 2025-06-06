@@ -1,0 +1,138 @@
+C:\Users\лил влудик\Desktop\MyAI\MyAI\MyAI\obj\Debug\MyAI.csproj.AssemblyReference.cache
+C:\Users\лил влудик\Desktop\MyAI\MyAI\MyAI\obj\Debug\MyAI.Form1.resources
+C:\Users\лил влудик\Desktop\MyAI\MyAI\MyAI\obj\Debug\MyAI.Properties.Resources.resources
+C:\Users\лил влудик\Desktop\MyAI\MyAI\MyAI\obj\Debug\MyAI.csproj.GenerateResource.cache
+C:\Users\лил влудик\Desktop\MyAI\MyAI\MyAI\obj\Debug\MyAI.csproj.CoreCompileInputs.cache
+C:\Users\лил влудик\Desktop\MyAI\MyAI\MyAI\bin\Debug\MyAI.exe.config
+C:\Users\лил влудик\Desktop\MyAI\MyAI\MyAI\bin\Debug\MyAI.exe
+C:\Users\лил влудик\Desktop\MyAI\MyAI\MyAI\bin\Debug\MyAI.pdb
+C:\Users\лил влудик\Desktop\MyAI\MyAI\MyAI\obj\Debug\MyAI.exe
+C:\Users\лил влудик\Desktop\MyAI\MyAI\MyAI\obj\Debug\MyAI.pdb
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\MyAI.exe.config
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\MyAI.exe
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\MyAI.pdb
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\obj\Debug\MyAI.csproj.AssemblyReference.cache
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\obj\Debug\MyAI.Form1.resources
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\obj\Debug\MyAI.Properties.Resources.resources
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\obj\Debug\MyAI.csproj.GenerateResource.cache
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\obj\Debug\MyAI.csproj.CoreCompileInputs.cache
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\obj\Debug\MyAI.exe
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\obj\Debug\MyAI.pdb
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\obj\Debug\MyAI.Form2.resources
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\Enums.NET.dll
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\ExtendedNumerics.BigDecimal.dll
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\MathNet.Numerics.dll
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\NPOI.Core.dll
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\NPOI.OOXML.dll
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\SixLabors.Fonts.dll
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\System.Buffers.dll
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\System.Memory.dll
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\Enums.NET.pdb
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\Enums.NET.xml
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\ExtendedNumerics.BigDecimal.xml
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\MathNet.Numerics.xml
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\NPOI.Core.pdb
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\NPOI.Core.xml
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\NPOI.OOXML.pdb
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\NPOI.OOXML.xml
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\NPOI.OpenXml4Net.pdb
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\NPOI.OpenXml4Net.xml
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\NPOI.OpenXmlFormats.pdb
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\NPOI.OpenXmlFormats.xml
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\SixLabors.Fonts.xml
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\System.Buffers.xml
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\System.Memory.xml
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\obj\Debug\MyAI.csproj.CopyComplete
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\obj\Debug\MyAI.Form3.resources
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\obj\Debug\MyAI.Form4.resources
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\obj\Debug\MyAI.Form5.resources
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\obj\Debug\MyAI.Form6.resources
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\лил влудик\Desktop\MyAI\MyAI_2\MyAI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\MyAI.exe.config
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\MyAI.exe
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\MyAI.pdb
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\Enums.NET.dll
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\ExtendedNumerics.BigDecimal.dll
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\MathNet.Numerics.dll
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\NPOI.Core.dll
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\NPOI.OOXML.dll
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\SixLabors.Fonts.dll
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\System.Buffers.dll
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\System.Memory.dll
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\Enums.NET.pdb
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\Enums.NET.xml
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\ExtendedNumerics.BigDecimal.xml
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\MathNet.Numerics.xml
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\NPOI.Core.pdb
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\NPOI.Core.xml
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\NPOI.OOXML.pdb
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\NPOI.OOXML.xml
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\NPOI.OpenXml4Net.pdb
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\NPOI.OpenXml4Net.xml
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\NPOI.OpenXmlFormats.pdb
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\NPOI.OpenXmlFormats.xml
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\SixLabors.Fonts.xml
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\System.Buffers.xml
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\System.Memory.xml
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\obj\Debug\MyAI.csproj.AssemblyReference.cache
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\obj\Debug\MyAI.Form1.resources
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\obj\Debug\MyAI.Form2.resources
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\obj\Debug\MyAI.Form3.resources
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\obj\Debug\MyAI.Form4.resources
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\obj\Debug\MyAI.Form5.resources
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\obj\Debug\MyAI.Form6.resources
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\obj\Debug\MyAI.Properties.Resources.resources
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\obj\Debug\MyAI.csproj.GenerateResource.cache
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\obj\Debug\MyAI.csproj.CoreCompileInputs.cache
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\obj\Debug\MyAI.csproj.Up2Date
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\obj\Debug\MyAI.exe
+C:\Users\kadr8\Desktop\DataSience\MyAI_2\MyAI_2\MyAI\obj\Debug\MyAI.pdb
